@@ -1,7 +1,7 @@
 let x: unknown;
 
 x = 100;
-x = 'Luiz';
+x = 'Bruno';
 x = 900;
 x = 10;
 const y = 800;

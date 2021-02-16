@@ -11,7 +11,7 @@ const pessoa = {
   },
 };
 
-semRetorno('Luiz', 'Otávio');
+semRetorno('Bruno', 'Beluco');
 pessoa.exibirNome();
 
 export { pessoa };

@@ -1,4 +1,4 @@
-// Utilize any apenas em último caso
+// any apenas em último caso
 function showMessage(msg: any) {
   return msg;
 }

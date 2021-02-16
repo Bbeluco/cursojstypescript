@@ -27,7 +27,7 @@ export class Colaborador {
 }
 
 const empresa1 = new Empresa('Udemy', '11.111.111/0001-11');
-const colaborador1 = new Colaborador('Luiz', 'Otávio');
+const colaborador1 = new Colaborador('Bruno', 'Beluco');
 const colaborador2 = new Colaborador('Maria', 'Miranda');
 const colaborador3 = new Colaborador('João', 'Vieira');
 empresa1.adicionaColaborador(colaborador1);

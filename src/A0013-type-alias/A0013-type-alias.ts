@@ -11,7 +11,7 @@ type CorPreferida = CorRGB | CorCMYK;
 
 const pessoa: Pessoa = {
   idade: 30,
-  nome: 'Luiz',
+  nome: 'Bruno',
   salario: 200_000,
 };
 
